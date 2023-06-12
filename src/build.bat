@@ -5,7 +5,7 @@ set cpu=64
 set vc2015="C:\Program Files (x86)\Microsoft Visual Studio\2015\Professional\VC\Auxiliary\Build\vcvars%cpu%.bat"
 set vc2017="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Auxiliary\Build\vcvars%cpu%.bat"
 set vc2019="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\Build\vcvars%cpu%.bat"
-set vc2020="C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Auxiliary\Build\vcvars%cpu%.bat"
+set vc2020="D:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Auxiliary\Build\vcvars%cpu%.bat"
 
 
 
